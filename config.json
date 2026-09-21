@@ -78,6 +78,16 @@
           }
         },
         {
+          "title": "large XYZ API",
+          "content": "reference/GA-3-2-3-swagger-v1.annotated.json",
+          "type": "oas3",
+          "config": {
+            "overview": {
+                "markdownPath": "reference/overview.md"
+            }
+          }
+        },
+        {
           "title": "Download XYZ OpenAPI Document",
           "content": "reference/openapi.json",
           "type": "file"
